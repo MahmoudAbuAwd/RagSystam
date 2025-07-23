@@ -2,8 +2,9 @@
 
 A lightweight Retrieval-Augmented Generation (RAG) system built with LangChain, Ollama, and FAISS for document question-answering.
 
-![RAG System Diagram](https://miro.medium.com/v2/resize:fit:1400/1*Q8D0k3QOQZQZQZQZQZQZQ.png)
+![RAG Architecture Diagram](https://www.dailydoseofds.com/content/images/2024/11/ragdiagram-ezgif.com-resize.gif)
 
+*A visual overview of the RAG system architecture*
 ## Features
 
 - 📄 Process PDF, TXT, and CSV documents
@@ -109,19 +110,3 @@ rag-system/
 
 MIT License - See [LICENSE](LICENSE) for details
 
-```
-
-Key improvements made:
-1. Added visual diagram placeholder
-2. Organized features into clear bullet points
-3. Added separate troubleshooting sections
-4. Included configuration examples
-5. Improved formatting for better readability
-6. Added license section (you may want to add a LICENSE file)
-7. Made the structure more scannable with clear section headers
-
-You may want to:
-1. Add a real diagram image URL
-2. Include a LICENSE file if using MIT license
-3. Add contribution guidelines if open source
-4. Include system requirements based on your testing
